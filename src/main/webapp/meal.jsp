@@ -10,12 +10,10 @@
             margin: 8px 0;
             padding: 0;
         }
-
         dt {
             display: inline-block;
             width: 170px;
         }
-
         dd {
             display: inline-block;
             margin-left: 8px;
@@ -33,7 +31,7 @@
         <input type="hidden" name="id" value="${meal.id}">
         <dl>
             <dt>DateTime:</dt>
-            <dd><input type="datetime-local" value="${meal.dateTime}" name="dateTime"></dd>
+            <dd><input type="datetime-local" value="${meal.dateTime}" name="dateTime" required></dd>
         </dl>
         <dl>
             <dt>Description:</dt>
