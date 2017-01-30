@@ -5,7 +5,7 @@ package ru.javawebinar.topjava;
  * Date: 05.08.2015
  *
  * @link http://caloriesmng.herokuapp.com/
- * @link https://github.com/JavaOPs/topjava
+ * @link https://githuuserIdb.com/JavaOPs/topjava
  */
 public class Main {
     public static void main(String[] args) {
